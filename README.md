@@ -33,7 +33,7 @@ Note: Some of the countries in the above two maps have a light shade, which does
 3.	The bar graph we used for showing the number of countries in each region is simple and yet conveys the required information. Here, our focus was on reducing clutter and improving readability.
 
 4.	Finally, we created scatter plots.
-a.	First one is GDP v Literacy, and it did not have a regression line
-b.	Second plot is Infant Mortality v Literacy and has a regression line – showing the overall trend
+- First one is GDP v Literacy, and it did not have a regression line
+- Second plot is Infant Mortality v Literacy and has a regression line – showing the overall trend
 
-c.	 Third plot is a GDP vs Literacy bubble plot, with the size of the bubble indicating Infant Mortality rate. We can observe that as GDP and Literacy increases, the Infant Mortality Rate (bubble size) reduces.
+- Third plot is a GDP vs Literacy bubble plot, with the size of the bubble indicating Infant Mortality rate. We can observe that as GDP and Literacy increases, the Infant Mortality Rate (bubble size) reduces.
